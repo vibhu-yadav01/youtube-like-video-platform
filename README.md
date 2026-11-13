@@ -126,4 +126,8 @@ Installation and execution instructions will be added after the initial project 
 
 ## License
 
+<<<<<<< HEAD
 This project is currently developed for educational and internship purposes. Licensing details will be added as appropriate.
+=======
+This project is currently developed for educational and internship purposes. Licensing details will be added as appropriate.
+>>>>>>> c08b3f884463772c8988f54f27d60c58cc167f2f
